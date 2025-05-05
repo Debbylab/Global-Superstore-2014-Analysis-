@@ -35,7 +35,7 @@ This Power BI project explores sales and profitability across regions, products,
 - Excel (for data cleaning and modeling)
 
 ## 📈 Dashboard Preview
-![](.)
+![](https://github.com/Debbylab/Global-Superstore-2014-Analysis-/blob/main/Globla%20Superstore.png)
 
 ## ✅ Recommendations
 - Reevaluate selling Tables in Indonesia.
@@ -44,4 +44,4 @@ This Power BI project explores sales and profitability across regions, products,
 
 ---
 
-Feel free to connect with me on [LinkedIn](#) and explore more projects in this repo!
+Feel free to connect with me on [LinkedIn](#) and explore more projects in this report!
