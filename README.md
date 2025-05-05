@@ -44,4 +44,4 @@ This Power BI project explores sales and profitability across regions, products,
 
 ---
 
-Feel free to connect with me on [LinkedIn](#) and explore more projects in this report!
+Feel free to connect with me on [https://www.linkedin.com/in/deborah-japhet?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app](#) and explore more projects in this report!
