@@ -35,7 +35,7 @@ This Power BI project explores sales and profitability across regions, products,
 - Excel (for data cleaning and modeling)
 
 ## 📈 Dashboard Preview
-[Insert dashboard screenshot or link to Power BI report]
+![](.)
 
 ## ✅ Recommendations
 - Reevaluate selling Tables in Indonesia.
